@@ -1,0 +1,150 @@
+Регион,Год,Число студентов из РФ,"Доля региона, %"
+Africa,2000,0,0.0
+Africa,2001,71,0.65
+Africa,2002,0,0.0
+Africa,2003,37,0.23
+Africa,2004,40,0.25
+Africa,2005,0,0.0
+Africa,2006,0,0.0
+Africa,2007,3,0.01
+Africa,2008,6,0.02
+Africa,2009,3,0.01
+Africa,2010,1,0.0
+Africa,2011,63,0.17
+Africa,2012,26,0.07
+Africa,2013,278,0.56
+Africa,2014,243,0.45
+Africa,2015,35,0.06
+Africa,2016,265,0.47
+Africa,2017,44,0.08
+Africa,2018,50,0.09
+Africa,2019,45,0.1
+Africa,2020,244,0.45
+Africa,2021,30,0.05
+Africa,2022,25,0.05
+Africa,2023,20,0.03
+Africa,2024,156,0.37
+Asia,2000,2385,25.68
+Asia,2001,3106,28.37
+Asia,2002,2908,22.95
+Asia,2003,4242,26.6
+Asia,2004,4882,30.43
+Asia,2005,5112,19.93
+Asia,2006,5989,27.21
+Asia,2007,6115,23.97
+Asia,2008,5605,19.48
+Asia,2009,6246,19.92
+Asia,2010,7897,23.1
+Asia,2011,8298,22.62
+Asia,2012,6697,18.65
+Asia,2013,6368,12.74
+Asia,2014,7865,14.59
+Asia,2015,7713,14.09
+Asia,2016,7894,14.07
+Asia,2017,7862,14.15
+Asia,2018,8536,15.29
+Asia,2019,8988,19.4
+Asia,2020,8781,16.03
+Asia,2021,8754,15.24
+Asia,2022,9406,17.32
+Asia,2023,11720,18.98
+Asia,2024,12191,29.04
+Europe,2000,6396,68.87
+Europe,2001,7451,68.06
+Europe,2002,8741,68.98
+Europe,2003,10517,65.94
+Europe,2004,10112,63.03
+Europe,2005,14229,55.48
+Europe,2006,15088,68.55
+Europe,2007,18109,70.99
+Europe,2008,21687,75.39
+Europe,2009,23509,74.97
+Europe,2010,24582,71.9
+Europe,2011,26402,71.96
+Europe,2012,27399,76.31
+Europe,2013,36232,72.46
+Europe,2014,37922,70.36
+Europe,2015,38845,70.97
+Europe,2016,39708,70.8
+Europe,2017,39780,71.62
+Europe,2018,39144,70.1
+Europe,2019,34643,74.76
+Europe,2020,38324,69.94
+Europe,2021,41873,72.89
+Europe,2022,42553,78.38
+Europe,2023,43145,69.87
+Europe,2024,28581,68.09
+Latin America,2000,6,0.06
+Latin America,2001,2,0.02
+Latin America,2002,15,0.12
+Latin America,2003,8,0.05
+Latin America,2004,7,0.04
+Latin America,2005,8,0.03
+Latin America,2006,1,0.0
+Latin America,2007,10,0.04
+Latin America,2008,25,0.09
+Latin America,2009,48,0.15
+Latin America,2010,49,0.14
+Latin America,2011,37,0.1
+Latin America,2012,65,0.18
+Latin America,2013,4,0.01
+Latin America,2014,88,0.16
+Latin America,2015,95,0.17
+Latin America,2016,187,0.33
+Latin America,2017,204,0.37
+Latin America,2018,239,0.43
+Latin America,2019,232,0.5
+Latin America,2020,212,0.39
+Latin America,2021,230,0.4
+Latin America,2022,207,0.38
+Latin America,2023,288,0.47
+Latin America,2024,86,0.2
+North America,2000,273,2.94
+North America,2001,288,2.63
+North America,2002,351,2.77
+North America,2003,384,2.41
+North America,2004,351,2.19
+North America,2005,5647,22.02
+North America,2006,489,2.22
+North America,2007,472,1.85
+North America,2008,527,1.83
+North America,2009,504,1.61
+North America,2010,504,1.47
+North America,2011,663,1.81
+North America,2012,483,1.35
+North America,2013,5828,11.66
+North America,2014,6439,11.95
+North America,2015,6850,12.51
+North America,2016,6860,12.23
+North America,2017,6578,11.84
+North America,2018,6681,11.96
+North America,2019,1383,2.98
+North America,2020,6374,11.63
+North America,2021,5930,10.32
+North America,2022,1527,2.81
+North America,2023,5785,9.37
+Oceania,2000,227,2.44
+Oceania,2001,29,0.26
+Oceania,2002,657,5.18
+Oceania,2003,762,4.78
+Oceania,2004,650,4.05
+Oceania,2005,650,2.53
+Oceania,2006,442,2.01
+Oceania,2007,802,3.14
+Oceania,2008,917,3.19
+Oceania,2009,1048,3.34
+Oceania,2010,1158,3.39
+Oceania,2011,1227,3.34
+Oceania,2012,1233,3.43
+Oceania,2013,1293,2.59
+Oceania,2014,1340,2.49
+Oceania,2015,1200,2.19
+Oceania,2016,1174,2.09
+Oceania,2017,1079,1.94
+Oceania,2018,1189,2.13
+Oceania,2019,1046,2.26
+Oceania,2020,859,1.57
+Oceania,2021,629,1.09
+Oceania,2022,576,1.06
+Oceania,2023,795,1.29
+Oceania,2024,963,2.29
