@@ -1,0 +1,1806 @@
+"Страна","Год","Число_студентов","Темп_роста"
+Germany,2013,9480,—
+Germany,2014,9668,"2.0%"
+Germany,2015,9953,"2.9%"
+Germany,2016,9711,-2.4%
+Germany,2017,9620,-0.9%
+Germany,2018,10121,"5.2%"
+Germany,2019,9646,-4.7%
+Germany,2020,11055,"14.6%"
+Germany,2021,11149,"0.9%"
+Germany,2022,11369,"2.0%"
+Germany,2023,11024,-3.0%
+Germany,2024,10974,-0.5%
+Czechia,2000,110,—
+Czechia,2001,160,"45.5%"
+Czechia,2002,203,"26.9%"
+Czechia,2003,305,"50.2%"
+Czechia,2004,407,"33.4%"
+Czechia,2005,609,"49.6%"
+Czechia,2006,782,"28.4%"
+Czechia,2007,1088,"39.1%"
+Czechia,2008,1405,"29.1%"
+Czechia,2009,1768,"25.8%"
+Czechia,2010,2297,"29.9%"
+Czechia,2011,2588,"12.7%"
+Czechia,2012,2912,"12.5%"
+Czechia,2013,3455,"18.6%"
+Czechia,2014,4379,"26.7%"
+Czechia,2015,5305,"21.1%"
+Czechia,2016,5771,"8.8%"
+Czechia,2017,5979,"3.6%"
+Czechia,2018,5859,-2.0%
+Czechia,2019,4372,-25.4%
+Czechia,2020,6407,"46.5%"
+Czechia,2021,7710,"20.3%"
+Czechia,2022,8255,"7.1%"
+Czechia,2023,7781,-5.7%
+France,2000,1453,—
+France,2001,1658,"14.1%"
+France,2002,1924,"16.0%"
+France,2003,2537,"31.9%"
+France,2004,2597,"2.4%"
+France,2005,2672,"2.9%"
+France,2006,3083,"15.4%"
+France,2007,3219,"4.4%"
+France,2008,3347,"4.0%"
+France,2009,3593,"7.3%"
+France,2010,3822,"6.4%"
+France,2011,4193,"9.7%"
+France,2012,4300,"2.6%"
+France,2013,3643,-15.3%
+France,2014,3599,-1.2%
+France,2015,3648,"1.4%"
+France,2016,3555,-2.5%
+France,2017,3691,"3.8%"
+France,2018,2945,-20.2%
+France,2019,2785,-5.4%
+France,2020,2751,-1.2%
+France,2021,2752,"0.0%"
+France,2022,2685,-2.4%
+France,2023,3001,"11.8%"
+France,2024,3159,"5.3%"
+United Kingdom,2000,1058,—
+United Kingdom,2001,1370,"29.5%"
+United Kingdom,2002,1461,"6.6%"
+United Kingdom,2003,1601,"9.6%"
+United Kingdom,2004,1878,"17.3%"
+United Kingdom,2005,2027,"7.9%"
+United Kingdom,2006,2187,"7.9%"
+United Kingdom,2007,2580,"18.0%"
+United Kingdom,2008,2646,"2.6%"
+United Kingdom,2009,2953,"11.6%"
+United Kingdom,2010,3159,"7.0%"
+United Kingdom,2011,3303,"4.6%"
+United Kingdom,2012,3574,"8.2%"
+United Kingdom,2013,3604,"0.8%"
+United Kingdom,2014,3933,"9.1%"
+United Kingdom,2015,4092,"4.0%"
+United Kingdom,2016,3974,-2.9%
+United Kingdom,2017,3920,-1.4%
+United Kingdom,2018,3752,-4.3%
+United Kingdom,2019,3640,-3.0%
+United Kingdom,2020,3376,-7.3%
+United Kingdom,2021,3357,-0.6%
+United Kingdom,2022,3331,-0.8%
+United Kingdom,2023,3028,-9.1%
+Finland,2000,656,—
+Finland,2001,764,"16.5%"
+Finland,2002,911,"19.2%"
+Finland,2003,1079,"18.4%"
+Finland,2004,1140,"5.7%"
+Finland,2005,1127,-1.1%
+Finland,2007,1182,"4.9%"
+Finland,2008,1291,"9.2%"
+Finland,2009,1378,"6.7%"
+Finland,2010,1595,"15.7%"
+Finland,2011,1776,"11.3%"
+Finland,2012,2107,"18.6%"
+Finland,2013,2206,"4.7%"
+Finland,2014,2555,"15.8%"
+Finland,2015,2799,"9.5%"
+Finland,2016,2799,"0.0%"
+Finland,2017,2733,-2.4%
+Finland,2018,2344,-14.2%
+Finland,2019,2017,-14.0%
+Finland,2020,1728,-14.3%
+Finland,2021,1996,"15.5%"
+Finland,2022,2039,"2.2%"
+Finland,2023,2026,-0.6%
+Finland,2024,2066,"2.0%"
+Kazakhstan,2000,728,—
+Kazakhstan,2001,866,"19.0%"
+Kazakhstan,2003,1659,"91.6%"
+Kazakhstan,2004,2177,"31.2%"
+Kazakhstan,2005,2516,"15.6%"
+Kazakhstan,2006,2880,"14.5%"
+Kazakhstan,2007,2857,-0.8%
+Kazakhstan,2008,1914,-33.0%
+Kazakhstan,2009,2074,"8.4%"
+Kazakhstan,2010,3600,"73.6%"
+Kazakhstan,2011,3373,-6.3%
+Kazakhstan,2012,1993,-40.9%
+Kazakhstan,2013,1315,-34.0%
+Kazakhstan,2014,1202,-8.6%
+Kazakhstan,2015,1270,"5.7%"
+Kazakhstan,2016,1097,-13.6%
+Kazakhstan,2017,1136,"3.6%"
+Kazakhstan,2018,1234,"8.6%"
+Kazakhstan,2019,1511,"22.4%"
+Kazakhstan,2020,1487,-1.6%
+Kazakhstan,2024,2123,"42.8%"
+Armenia,2003,290,—
+Armenia,2004,662,"128.3%"
+Armenia,2005,477,-27.9%
+Armenia,2006,680,"42.6%"
+Armenia,2007,828,"21.8%"
+Armenia,2008,967,"16.8%"
+Armenia,2009,1331,"37.6%"
+Armenia,2010,1175,-11.7%
+Armenia,2011,1140,-3.0%
+Armenia,2012,1062,-6.8%
+Armenia,2013,903,-15.0%
+Armenia,2014,1277,"41.4%"
+Armenia,2015,1140,-10.7%
+Armenia,2016,1268,"11.2%"
+Armenia,2017,1357,"7.0%"
+Armenia,2018,1255,-7.5%
+Armenia,2019,1421,"13.2%"
+Armenia,2020,1283,-9.7%
+Armenia,2021,1782,"38.9%"
+Armenia,2022,2082,"16.8%"
+Armenia,2023,1923,-7.6%
+Armenia,2024,2761,"43.6%"
+Kyrgyzstan,2001,814,—
+Kyrgyzstan,2002,245,-69.9%
+Kyrgyzstan,2003,371,"51.4%"
+Kyrgyzstan,2004,277,-25.3%
+Kyrgyzstan,2005,362,"30.7%"
+Kyrgyzstan,2006,356,-1.7%
+Kyrgyzstan,2007,399,"12.1%"
+Kyrgyzstan,2008,649,"62.7%"
+Kyrgyzstan,2009,748,"15.3%"
+Kyrgyzstan,2010,842,"12.6%"
+Kyrgyzstan,2011,818,-2.9%
+Kyrgyzstan,2012,847,"3.5%"
+Kyrgyzstan,2013,927,"9.4%"
+Kyrgyzstan,2014,1302,"40.5%"
+Kyrgyzstan,2015,1377,"5.8%"
+Kyrgyzstan,2016,1186,-13.9%
+Kyrgyzstan,2017,910,-23.3%
+Kyrgyzstan,2018,1535,"68.7%"
+Kyrgyzstan,2019,1622,"5.7%"
+Kyrgyzstan,2020,1844,"13.7%"
+Kyrgyzstan,2021,2005,"8.7%"
+Kyrgyzstan,2022,1672,-16.6%
+Kyrgyzstan,2023,2474,"48.0%"
+Kyrgyzstan,2024,2623,"6.0%"
+Türkiye,2000,1004,—
+Türkiye,2001,924,-8.0%
+Türkiye,2002,846,-8.4%
+Türkiye,2003,720,-14.9%
+Türkiye,2004,662,-8.1%
+Türkiye,2005,625,-5.6%
+Türkiye,2006,604,-3.4%
+Türkiye,2007,556,-7.9%
+Türkiye,2008,524,-5.8%
+Türkiye,2009,491,-6.3%
+Türkiye,2010,495,"0.8%"
+Türkiye,2011,516,"4.2%"
+Türkiye,2012,567,"9.9%"
+Türkiye,2013,60,-89.4%
+Türkiye,2014,931,"1451.7%"
+Türkiye,2015,1158,"24.4%"
+Türkiye,2016,1275,"10.1%"
+Türkiye,2017,1376,"7.9%"
+Türkiye,2018,1431,"4.0%"
+Türkiye,2019,1409,-1.5%
+Türkiye,2020,1439,"2.1%"
+Türkiye,2021,1648,"14.5%"
+Türkiye,2022,1711,"3.8%"
+Türkiye,2023,3083,"80.2%"
+"Korea, Republic of",2000,77,—
+"Korea, Republic of",2001,65,-15.6%
+"Korea, Republic of",2002,100,"53.8%"
+"Korea, Republic of",2003,153,"53.0%"
+"Korea, Republic of",2004,166,"8.5%"
+"Korea, Republic of",2005,185,"11.4%"
+"Korea, Republic of",2006,254,"37.3%"
+"Korea, Republic of",2007,243,-4.3%
+"Korea, Republic of",2008,248,"2.1%"
+"Korea, Republic of",2009,252,"1.6%"
+"Korea, Republic of",2010,346,"37.3%"
+"Korea, Republic of",2011,340,-1.7%
+"Korea, Republic of",2012,330,-2.9%
+"Korea, Republic of",2013,314,-4.8%
+"Korea, Republic of",2014,320,"1.9%"
+"Korea, Republic of",2015,349,"9.1%"
+"Korea, Republic of",2016,420,"20.3%"
+"Korea, Republic of",2017,443,"5.5%"
+"Korea, Republic of",2018,473,"6.8%"
+"Korea, Republic of",2019,481,"1.7%"
+"Korea, Republic of",2020,505,"5.0%"
+"Korea, Republic of",2021,614,"21.6%"
+"Korea, Republic of",2022,787,"28.2%"
+"Korea, Republic of",2023,1015,"29.0%"
+"Korea, Republic of",2024,1351,"33.1%"
+Andorra,2002,0,—
+Andorra,2013,0,"0%"
+Andorra,2015,0,"0%"
+Andorra,2016,2,рост с 0 до 2 студентов
+Andorra,2017,1,-50.0%
+Andorra,2018,2,"100.0%"
+Andorra,2019,2,"0.0%"
+Andorra,2020,1,-50.0%
+Andorra,2021,0,-100.0%
+Andorra,2023,3,рост с 0 до 3 студентов
+Andorra,2024,4,"33.3%"
+Argentina,2000,0,—
+Argentina,2016,110,рост с 0 до 110 студентов
+Argentina,2017,131,"19.1%"
+Argentina,2018,148,"13.0%"
+Argentina,2019,148,"0.0%"
+Argentina,2020,135,-8.8%
+Argentina,2021,145,"7.4%"
+Argentina,2022,123,-15.2%
+Argentina,2023,185,"50.4%"
+Aruba,2003,0,—
+Aruba,2006,0,"0%"
+Aruba,2009,0,"0%"
+Aruba,2010,0,"0%"
+Aruba,2011,0,"0%"
+Aruba,2012,0,"0%"
+Aruba,2013,2,рост с 0 до 2 студентов
+Aruba,2014,2,"0.0%"
+Aruba,2015,1,-50.0%
+Aruba,2016,0,-100.0%
+Australia,2000,207,—
+Australia,2002,599,"189.4%"
+Australia,2003,661,"10.4%"
+Australia,2004,476,-28.0%
+Australia,2005,447,-6.1%
+Australia,2006,442,-1.1%
+Australia,2007,530,"19.9%"
+Australia,2008,618,"16.6%"
+Australia,2009,764,"23.6%"
+Australia,2010,846,"10.7%"
+Australia,2011,889,"5.1%"
+Australia,2012,897,"0.9%"
+Australia,2013,968,"7.9%"
+Australia,2014,1028,"6.2%"
+Australia,2015,880,-14.4%
+Australia,2016,859,-2.4%
+Australia,2017,737,-14.2%
+Australia,2018,796,"8.0%"
+Australia,2019,708,-11.1%
+Australia,2020,590,-16.7%
+Australia,2021,473,-19.8%
+Australia,2022,477,"0.8%"
+Australia,2023,589,"23.5%"
+Australia,2024,683,"16.0%"
+Austria,2000,300,—
+Austria,2001,341,"13.7%"
+Austria,2002,263,-22.9%
+Austria,2003,278,"5.7%"
+Austria,2004,338,"21.6%"
+Austria,2006,418,"23.7%"
+Austria,2007,522,"24.9%"
+Austria,2008,588,"12.6%"
+Austria,2009,753,"28.1%"
+Austria,2010,858,"13.9%"
+Austria,2011,975,"13.6%"
+Austria,2012,754,-22.7%
+Austria,2013,1004,"33.2%"
+Austria,2014,939,-6.5%
+Austria,2015,1128,"20.1%"
+Austria,2016,1257,"11.4%"
+Austria,2017,1390,"10.6%"
+Austria,2018,1447,"4.1%"
+Austria,2019,1479,"2.2%"
+Austria,2020,1539,"4.1%"
+Austria,2021,1674,"8.8%"
+Austria,2022,1793,"7.1%"
+Austria,2023,1950,"8.8%"
+Austria,2024,2345,"20.3%"
+Azerbaijan,2006,171,—
+Azerbaijan,2007,150,-12.3%
+Azerbaijan,2008,158,"5.3%"
+Azerbaijan,2009,224,"41.8%"
+Azerbaijan,2010,263,"17.4%"
+Azerbaijan,2011,221,-16.0%
+Azerbaijan,2012,177,-19.9%
+Azerbaijan,2013,232,"31.1%"
+Azerbaijan,2014,213,-8.2%
+Azerbaijan,2015,270,"26.8%"
+Azerbaijan,2016,306,"13.3%"
+Azerbaijan,2017,441,"44.1%"
+Azerbaijan,2018,593,"34.5%"
+Azerbaijan,2019,522,-12.0%
+Azerbaijan,2020,481,-7.9%
+Azerbaijan,2021,428,-11.0%
+Azerbaijan,2022,477,"11.4%"
+Azerbaijan,2023,451,-5.5%
+Azerbaijan,2024,618,"37.0%"
+Bahrain,2003,1,—
+Bahrain,2005,0,-100.0%
+Bahrain,2006,0,"0%"
+Bahrain,2014,1,рост с 0 до 1 студентов
+Bahrain,2015,2,"100.0%"
+Bahrain,2016,3,"50.0%"
+Bahrain,2017,5,"66.7%"
+Bahrain,2018,3,-40.0%
+Bahrain,2019,3,"0.0%"
+Bahrain,2020,5,"66.7%"
+Bahrain,2021,4,-20.0%
+Bahrain,2022,3,-25.0%
+Bahrain,2023,3,"0.0%"
+Bahrain,2024,4,"33.3%"
+Barbados,2001,0,—
+Barbados,2007,0,"0%"
+Barbados,2009,1,рост с 0 до 1 студентов
+Barbados,2010,1,"0.0%"
+Barbados,2011,1,"0.0%"
+Belarus,2002,0,—
+Belarus,2003,0,"0%"
+Belarus,2004,0,"0%"
+Belarus,2005,0,"0%"
+Belarus,2006,0,"0%"
+Belarus,2007,0,"0%"
+Belarus,2008,2622,рост с 0 до 2622 студентов
+Belarus,2009,2546,-2.9%
+Belarus,2010,2543,-0.1%
+Belarus,2011,2596,"2.1%"
+Belarus,2012,2567,-1.1%
+Belarus,2013,2061,-19.7%
+Belarus,2014,2128,"3.3%"
+Belarus,2015,1953,-8.2%
+Belarus,2016,1578,-19.2%
+Belarus,2017,1647,"4.4%"
+Belarus,2018,1952,"18.5%"
+Belarus,2019,1796,-8.0%
+Belarus,2020,1912,"6.5%"
+Belarus,2021,1902,-0.5%
+Belarus,2022,1756,-7.7%
+Belarus,2023,1804,"2.7%"
+Belarus,2024,1901,"5.4%"
+Belgium,2000,143,—
+Belgium,2001,200,"39.9%"
+Belgium,2002,271,"35.5%"
+Belgium,2003,285,"5.2%"
+Belgium,2004,0,-100.0%
+Belgium,2005,89,рост с 0 до 89 студентов
+Belgium,2006,73,-18.0%
+Belgium,2007,132,"80.8%"
+Belgium,2008,14,-89.4%
+Belgium,2009,152,"985.7%"
+Belgium,2010,188,"23.7%"
+Belgium,2011,244,"29.8%"
+Belgium,2012,244,"0.0%"
+Belgium,2013,273,"11.9%"
+Belgium,2014,264,-3.3%
+Belgium,2015,213,-19.3%
+Belgium,2016,287,"34.7%"
+Belgium,2017,302,"5.2%"
+Belgium,2018,180,-40.4%
+Belgium,2019,43,-76.1%
+Belgium,2020,302,"602.3%"
+Belgium,2021,316,"4.6%"
+Belgium,2022,312,-1.3%
+Belgium,2023,284,-9.0%
+Benin,2014,0,—
+Benin,2015,0,"0%"
+Benin,2016,0,"0%"
+Benin,2017,0,"0%"
+Benin,2018,0,"0%"
+Benin,2019,1,рост с 0 до 1 студентов
+Benin,2020,0,-100.0%
+Benin,2021,0,"0%"
+Benin,2022,0,"0%"
+Bosnia and Herzegovina,2013,4,—
+Bosnia and Herzegovina,2014,4,"0.0%"
+Bosnia and Herzegovina,2015,6,"50.0%"
+Bosnia and Herzegovina,2016,6,"0.0%"
+Bosnia and Herzegovina,2017,4,-33.3%
+Bosnia and Herzegovina,2018,9,"125.0%"
+Bosnia and Herzegovina,2019,6,-33.3%
+Bosnia and Herzegovina,2020,5,-16.7%
+Bosnia and Herzegovina,2021,7,"40.0%"
+Bosnia and Herzegovina,2022,11,"57.1%"
+Bosnia and Herzegovina,2023,21,"90.9%"
+Brazil,2002,4,—
+Brazil,2003,2,-50.0%
+Brazil,2004,4,"100.0%"
+Brazil,2009,40,"900.0%"
+Brazil,2010,33,-17.5%
+Brazil,2011,36,"9.1%"
+Brazil,2012,36,"0.0%"
+Brazil,2014,47,"30.6%"
+Brazil,2015,38,-19.1%
+Brazil,2016,34,-10.5%
+Brazil,2017,36,"5.9%"
+Brazil,2018,45,"25.0%"
+Brazil,2019,44,-2.2%
+Brazil,2020,47,"6.8%"
+Brazil,2021,52,"10.6%"
+Brazil,2022,56,"7.7%"
+Brazil,2023,58,"3.6%"
+Brazil,2024,61,"5.2%"
+Brunei Darussalam,2000,0,—
+Brunei Darussalam,2001,0,"0%"
+Brunei Darussalam,2004,0,"0%"
+Brunei Darussalam,2005,0,"0%"
+Brunei Darussalam,2006,0,"0%"
+Brunei Darussalam,2007,0,"0%"
+Brunei Darussalam,2008,0,"0%"
+Brunei Darussalam,2009,0,"0%"
+Brunei Darussalam,2010,0,"0%"
+Brunei Darussalam,2011,0,"0%"
+Brunei Darussalam,2012,1,рост с 0 до 1 студентов
+Brunei Darussalam,2014,2,"100.0%"
+Brunei Darussalam,2015,2,"0.0%"
+Brunei Darussalam,2016,1,-50.0%
+Brunei Darussalam,2017,1,"0.0%"
+Brunei Darussalam,2018,3,"200.0%"
+Brunei Darussalam,2019,2,-33.3%
+Brunei Darussalam,2020,2,"0.0%"
+Brunei Darussalam,2023,0,-100.0%
+Bulgaria,2000,80,—
+Bulgaria,2001,67,-16.3%
+Bulgaria,2003,127,"89.6%"
+Bulgaria,2004,112,-11.8%
+Bulgaria,2005,88,-21.4%
+Bulgaria,2006,93,"5.7%"
+Bulgaria,2007,126,"35.5%"
+Bulgaria,2008,142,"12.7%"
+Bulgaria,2009,163,"14.8%"
+Bulgaria,2010,200,"22.7%"
+Bulgaria,2011,219,"9.5%"
+Bulgaria,2012,235,"7.3%"
+Bulgaria,2013,255,"8.5%"
+Bulgaria,2014,269,"5.5%"
+Bulgaria,2015,288,"7.1%"
+Bulgaria,2016,301,"4.5%"
+Bulgaria,2017,283,-6.0%
+Bulgaria,2018,309,"9.2%"
+Bulgaria,2019,315,"1.9%"
+Bulgaria,2020,316,"0.3%"
+Bulgaria,2021,312,-1.3%
+Bulgaria,2022,335,"7.4%"
+Bulgaria,2023,325,-3.0%
+Bulgaria,2024,264,-18.8%
+Canada,2000,273,—
+Canada,2001,288,"5.5%"
+Canada,2002,351,"21.9%"
+Canada,2003,384,"9.4%"
+Canada,2004,351,-8.6%
+Canada,2005,348,-0.9%
+Canada,2006,489,"40.5%"
+Canada,2007,472,-3.5%
+Canada,2008,527,"11.7%"
+Canada,2009,504,-4.4%
+Canada,2010,504,"0.0%"
+Canada,2011,663,"31.5%"
+Canada,2012,483,-27.1%
+Canada,2013,1140,"136.0%"
+Canada,2014,1554,"36.3%"
+Canada,2015,1647,"6.0%"
+Canada,2016,1704,"3.5%"
+Canada,2017,1497,-12.1%
+Canada,2018,1607,"7.3%"
+Canada,2019,1383,-13.9%
+Canada,2020,1473,"6.5%"
+Canada,2021,1464,-0.6%
+Canada,2022,1527,"4.3%"
+Canada,2023,1242,-18.7%
+Chile,2000,5,—
+Chile,2002,10,"100.0%"
+Chile,2003,6,-40.0%
+Chile,2005,8,"33.3%"
+Chile,2007,10,"25.0%"
+Chile,2008,15,"50.0%"
+Chile,2009,4,-73.3%
+Chile,2010,14,"250.0%"
+Chile,2012,2,-85.7%
+Chile,2013,1,-50.0%
+Chile,2014,2,"100.0%"
+Chile,2015,6,"200.0%"
+Chile,2016,1,-83.3%
+Chile,2017,6,"500.0%"
+Chile,2018,3,-50.0%
+Chile,2019,7,"133.3%"
+Chile,2020,8,"14.3%"
+Chile,2021,10,"25.0%"
+Chile,2022,11,"10.0%"
+Chile,2023,10,-9.1%
+Chile,2024,16,"60.0%"
+Colombia,2014,23,—
+Colombia,2015,22,-4.3%
+Colombia,2016,10,-54.5%
+Colombia,2017,10,"0.0%"
+Colombia,2018,11,"10.0%"
+Colombia,2019,10,-9.1%
+Colombia,2020,5,-50.0%
+Colombia,2021,9,"80.0%"
+Colombia,2022,7,-22.2%
+Congo,2003,0,—
+Congo,2004,0,"0%"
+Congo,2013,3,рост с 0 до 3 студентов
+Costa Rica,2004,3,—
+Costa Rica,2008,10,"233.3%"
+Costa Rica,2017,3,-70.0%
+Costa Rica,2018,5,"66.7%"
+Croatia,2001,1,—
+Croatia,2002,3,"200.0%"
+Croatia,2003,1,-66.7%
+Croatia,2005,0,-100.0%
+Croatia,2006,2,рост с 0 до 2 студентов
+Croatia,2007,0,-100.0%
+Croatia,2008,1,рост с 0 до 1 студентов
+Croatia,2009,3,"200.0%"
+Croatia,2010,1,-66.7%
+Croatia,2011,2,"100.0%"
+Croatia,2012,3,"50.0%"
+Croatia,2013,1,-66.7%
+Croatia,2014,8,"700.0%"
+Croatia,2015,3,-62.5%
+Croatia,2016,7,"133.3%"
+Croatia,2017,29,"314.3%"
+Croatia,2018,30,"3.4%"
+Croatia,2019,40,"33.3%"
+Croatia,2020,29,-27.5%
+Croatia,2021,19,-34.5%
+Croatia,2022,28,"47.4%"
+Croatia,2023,23,-17.9%
+Cuba,2000,1,—
+Cuba,2001,1,"0.0%"
+Cuba,2002,1,"0.0%"
+Cuba,2004,0,-100.0%
+Cuba,2005,0,"0%"
+Cuba,2006,0,"0%"
+Cuba,2007,0,"0%"
+Cuba,2009,0,"0%"
+Cuba,2010,0,"0%"
+Cuba,2011,0,"0%"
+Cuba,2013,1,рост с 0 до 1 студентов
+Cuba,2014,0,-100.0%
+Cuba,2015,0,"0%"
+Cuba,2016,0,"0%"
+Cuba,2017,1,рост с 0 до 1 студентов
+Cuba,2018,1,"0.0%"
+Cuba,2019,1,"0.0%"
+Cuba,2020,6,"500.0%"
+Cuba,2021,1,-83.3%
+Cuba,2023,1,"0.0%"
+Cuba,2024,0,-100.0%
+Cyprus,2000,233,—
+Cyprus,2001,208,-10.7%
+Cyprus,2002,193,-7.2%
+Cyprus,2003,197,"2.1%"
+Cyprus,2004,216,"9.6%"
+Cyprus,2005,228,"5.6%"
+Cyprus,2006,163,-28.5%
+Cyprus,2007,183,"12.3%"
+Cyprus,2008,191,"4.4%"
+Cyprus,2009,192,"0.5%"
+Cyprus,2010,199,"3.6%"
+Cyprus,2011,187,-6.0%
+Cyprus,2012,174,-7.0%
+Cyprus,2013,134,-23.0%
+Cyprus,2014,232,"73.1%"
+Cyprus,2015,171,-26.3%
+Cyprus,2016,157,-8.2%
+Cyprus,2017,157,"0.0%"
+Cyprus,2018,180,"14.6%"
+Cyprus,2019,156,-13.3%
+Cyprus,2020,142,-9.0%
+Cyprus,2021,186,"31.0%"
+Cyprus,2022,152,-18.3%
+Cyprus,2023,366,"140.8%"
+Cyprus,2024,433,"18.3%"
+Côte d'Ivoire,2008,0,—
+Côte d'Ivoire,2009,0,"0%"
+Côte d'Ivoire,2010,0,"0%"
+Côte d'Ivoire,2011,0,"0%"
+Côte d'Ivoire,2014,0,"0%"
+Côte d'Ivoire,2015,0,"0%"
+Côte d'Ivoire,2016,0,"0%"
+Côte d'Ivoire,2017,1,рост с 0 до 1 студентов
+Côte d'Ivoire,2019,1,"0.0%"
+Côte d'Ivoire,2020,1,"0.0%"
+Côte d'Ivoire,2021,1,"0.0%"
+Côte d'Ivoire,2022,0,-100.0%
+Côte d'Ivoire,2023,0,"0%"
+Côte d'Ivoire,2024,0,"0%"
+Denmark,2000,113,—
+Denmark,2001,122,"8.0%"
+Denmark,2002,187,"53.3%"
+Denmark,2003,317,"69.5%"
+Denmark,2004,71,-77.6%
+Denmark,2005,74,"4.2%"
+Denmark,2006,74,"0.0%"
+Denmark,2007,72,-2.7%
+Denmark,2008,56,-22.2%
+Denmark,2009,72,"28.6%"
+Denmark,2010,97,"34.7%"
+Denmark,2011,93,-4.1%
+Denmark,2012,102,"9.7%"
+Denmark,2013,187,"83.3%"
+Denmark,2014,186,-0.5%
+Denmark,2015,195,"4.8%"
+Denmark,2016,189,-3.1%
+Denmark,2017,156,-17.5%
+Denmark,2018,138,-11.5%
+Denmark,2019,128,-7.2%
+Denmark,2020,120,-6.3%
+Denmark,2021,121,"0.8%"
+Denmark,2022,131,"8.3%"
+Denmark,2023,126,-3.8%
+Denmark,2024,118,-6.3%
+Dominican Republic,2012,4,—
+Dominican Republic,2014,3,-25.0%
+Dominican Republic,2015,4,"33.3%"
+Dominican Republic,2016,8,"100.0%"
+Dominican Republic,2017,7,-12.5%
+Dominican Republic,2020,7,"0.0%"
+Dominican Republic,2021,7,"0.0%"
+Dominican Republic,2022,4,-42.9%
+Dominican Republic,2023,10,"150.0%"
+Dominican Republic,2024,9,-10.0%
+Ecuador,2012,22,—
+Ecuador,2014,11,-50.0%
+Ecuador,2015,19,"72.7%"
+Ecuador,2016,19,"0.0%"
+Ecuador,2018,16,-15.8%
+Ecuador,2019,18,"12.5%"
+Ecuador,2020,0,-100.0%
+Ecuador,2022,0,"0%"
+Ecuador,2023,18,рост с 0 до 18 студентов
+Egypt,2013,231,—
+Egypt,2014,210,-9.1%
+Egypt,2016,216,"2.9%"
+Egypt,2020,211,-2.3%
+Egypt,2024,143,-32.2%
+El Salvador,2001,1,—
+El Salvador,2003,0,-100.0%
+El Salvador,2005,0,"0%"
+El Salvador,2006,1,рост с 0 до 1 студентов
+El Salvador,2007,0,-100.0%
+El Salvador,2008,0,"0%"
+El Salvador,2009,0,"0%"
+El Salvador,2010,0,"0%"
+El Salvador,2011,0,"0%"
+El Salvador,2012,0,"0%"
+El Salvador,2013,0,"0%"
+El Salvador,2014,0,"0%"
+El Salvador,2015,0,"0%"
+El Salvador,2016,0,"0%"
+El Salvador,2017,0,"0%"
+El Salvador,2018,0,"0%"
+El Salvador,2019,0,"0%"
+El Salvador,2020,0,"0%"
+El Salvador,2021,0,"0%"
+El Salvador,2022,0,"0%"
+El Salvador,2023,0,"0%"
+Estonia,2000,119,—
+Estonia,2001,48,-59.7%
+Estonia,2002,106,"120.8%"
+Estonia,2003,101,-4.7%
+Estonia,2004,99,-2.0%
+Estonia,2005,79,-20.2%
+Estonia,2006,79,"0.0%"
+Estonia,2007,93,"17.7%"
+Estonia,2008,51,-45.2%
+Estonia,2009,57,"11.8%"
+Estonia,2010,0,-100.0%
+Estonia,2011,149,рост с 0 до 149 студентов
+Estonia,2012,127,-14.8%
+Estonia,2013,168,"32.3%"
+Estonia,2014,187,"11.3%"
+Estonia,2015,230,"23.0%"
+Estonia,2016,255,"10.9%"
+Estonia,2017,288,"12.9%"
+Estonia,2018,303,"5.2%"
+Estonia,2019,396,"30.7%"
+Estonia,2020,468,"18.2%"
+Estonia,2021,485,"3.6%"
+Estonia,2022,541,"11.5%"
+Estonia,2023,451,-16.6%
+Estonia,2024,313,-30.6%
+Georgia,2000,0,—
+Georgia,2001,0,"0%"
+Georgia,2002,0,"0%"
+Georgia,2003,0,"0%"
+Georgia,2004,3,рост с 0 до 3 студентов
+Georgia,2005,3,"0.0%"
+Georgia,2006,16,"433.3%"
+Georgia,2007,28,"75.0%"
+Georgia,2008,37,"32.1%"
+Georgia,2009,84,"127.0%"
+Georgia,2010,77,-8.3%
+Georgia,2011,337,"337.7%"
+Georgia,2012,125,-62.9%
+Georgia,2013,167,"33.6%"
+Georgia,2015,157,-6.0%
+Georgia,2016,254,"61.8%"
+Georgia,2017,248,-2.4%
+Georgia,2018,257,"3.6%"
+Georgia,2019,306,"19.1%"
+Georgia,2020,312,"2.0%"
+Georgia,2021,367,"17.6%"
+Georgia,2022,323,-12.0%
+Georgia,2023,460,"42.4%"
+Ghana,2012,0,—
+Ghana,2013,0,"0%"
+Ghana,2014,0,"0%"
+Ghana,2015,2,рост с 0 до 2 студентов
+Ghana,2016,0,-100.0%
+Ghana,2017,1,рост с 0 до 1 студентов
+Ghana,2018,0,-100.0%
+Ghana,2019,0,"0%"
+Ghana,2020,0,"0%"
+Ghana,2021,0,"0%"
+Ghana,2022,0,"0%"
+Ghana,2023,1,рост с 0 до 1 студентов
+Ghana,2024,0,-100.0%
+Greece,2002,76,—
+Greece,2003,101,"32.9%"
+Greece,2004,136,"34.7%"
+Greece,2005,151,"11.0%"
+Greece,2006,211,"39.7%"
+Greece,2007,299,"41.7%"
+Greece,2010,385,"28.8%"
+Greece,2011,433,"12.5%"
+Greece,2012,465,"7.4%"
+Greece,2016,547,"17.6%"
+Greece,2017,438,-19.9%
+Greece,2018,464,"5.9%"
+Greece,2019,466,"0.4%"
+Greece,2020,405,-13.1%
+Greece,2021,504,"24.4%"
+Greece,2022,620,"23.0%"
+Greece,2023,583,-6.0%
+Grenada,2009,3,—
+Grenada,2015,5,"66.7%"
+Grenada,2016,5,"0.0%"
+Grenada,2017,10,"100.0%"
+Grenada,2018,10,"0.0%"
+Guatemala,2019,0,—
+Guatemala,2023,2,рост с 0 до 2 студентов
+Guyana,2010,1,—
+Honduras,2003,0,—
+Honduras,2010,0,"0%"
+Honduras,2012,0,"0%"
+Honduras,2014,0,"0%"
+Honduras,2015,0,"0%"
+Honduras,2016,0,"0%"
+Honduras,2017,0,"0%"
+Honduras,2018,0,"0%"
+Honduras,2019,1,рост с 0 до 1 студентов
+Honduras,2024,0,-100.0%
+Hong Kong,2001,0,—
+Hong Kong,2002,0,"0%"
+Hong Kong,2003,0,"0%"
+Hong Kong,2004,0,"0%"
+Hong Kong,2005,0,"0%"
+Hong Kong,2006,0,"0%"
+Hong Kong,2007,0,"0%"
+Hong Kong,2008,0,"0%"
+Hong Kong,2009,0,"0%"
+Hong Kong,2010,3,рост с 0 до 3 студентов
+Hong Kong,2011,7,"133.3%"
+Hong Kong,2012,13,"85.7%"
+Hong Kong,2013,21,"61.5%"
+Hong Kong,2014,24,"14.3%"
+Hong Kong,2015,32,"33.3%"
+Hong Kong,2016,39,"21.9%"
+Hong Kong,2017,46,"17.9%"
+Hong Kong,2018,52,"13.0%"
+Hong Kong,2019,53,"1.9%"
+Hong Kong,2020,54,"1.9%"
+Hong Kong,2021,60,"11.1%"
+Hong Kong,2022,61,"1.7%"
+Hong Kong,2023,63,"3.3%"
+Hong Kong,2024,77,"22.2%"
+Hungary,2001,207,—
+Hungary,2002,217,"4.8%"
+Hungary,2003,229,"5.5%"
+Hungary,2004,231,"0.9%"
+Hungary,2005,212,-8.2%
+Hungary,2006,238,"12.3%"
+Hungary,2007,208,-12.6%
+Hungary,2008,204,-1.9%
+Hungary,2009,150,-26.5%
+Hungary,2010,127,-15.3%
+Hungary,2011,110,-13.4%
+Hungary,2012,80,-27.3%
+Hungary,2013,199,"148.8%"
+Hungary,2014,173,-13.1%
+Hungary,2015,135,-22.0%
+Hungary,2016,187,"38.5%"
+Hungary,2017,277,"48.1%"
+Hungary,2018,391,"41.2%"
+Hungary,2019,492,"25.8%"
+Hungary,2020,552,"12.2%"
+Hungary,2021,544,-1.4%
+Hungary,2022,556,"2.2%"
+Hungary,2023,562,"1.1%"
+Hungary,2024,726,"29.2%"
+Iceland,2000,10,—
+Iceland,2001,12,"20.0%"
+Iceland,2002,11,-8.3%
+Iceland,2003,21,"90.9%"
+Iceland,2004,30,"42.9%"
+Iceland,2006,20,-33.3%
+Iceland,2007,25,"25.0%"
+Iceland,2008,20,-20.0%
+Iceland,2009,19,-5.0%
+Iceland,2010,12,-36.8%
+Iceland,2011,19,"58.3%"
+Iceland,2012,30,"57.9%"
+Iceland,2013,27,-10.0%
+Iceland,2014,43,"59.3%"
+Iceland,2016,37,-14.0%
+Iceland,2017,27,-27.0%
+Iceland,2018,34,"25.9%"
+Iceland,2019,36,"5.9%"
+Iceland,2020,48,"33.3%"
+Iceland,2021,45,-6.3%
+Iceland,2022,42,-6.7%
+Iceland,2023,44,"4.8%"
+India,2000,10,—
+India,2001,12,"20.0%"
+India,2002,10,-16.7%
+India,2003,7,-30.0%
+India,2004,5,-28.6%
+India,2005,6,"20.0%"
+India,2006,6,"0.0%"
+India,2011,27,"350.0%"
+India,2012,18,-33.3%
+India,2013,32,"77.8%"
+India,2014,27,-15.6%
+India,2015,43,"59.3%"
+India,2016,29,-32.6%
+India,2017,33,"13.8%"
+India,2018,35,"6.1%"
+India,2019,43,"22.9%"
+India,2020,36,-16.3%
+India,2021,26,-27.8%
+India,2022,23,-11.5%
+India,2023,23,"0.0%"
+Indonesia,2005,0,—
+Indonesia,2006,0,"0%"
+Indonesia,2007,0,"0%"
+Indonesia,2008,0,"0%"
+Indonesia,2015,11,рост с 0 до 11 студентов
+Indonesia,2016,11,"0.0%"
+Indonesia,2017,11,"0.0%"
+Indonesia,2018,10,-9.1%
+"Iran, Islamic Republic of",2003,0,—
+"Iran, Islamic Republic of",2004,19,рост с 0 до 19 студентов
+"Iran, Islamic Republic of",2005,4,-78.9%
+"Iran, Islamic Republic of",2006,6,"50.0%"
+"Iran, Islamic Republic of",2007,3,-50.0%
+"Iran, Islamic Republic of",2008,2,-33.3%
+"Iran, Islamic Republic of",2009,0,-100.0%
+"Iran, Islamic Republic of",2010,0,"0%"
+"Iran, Islamic Republic of",2011,15,рост с 0 до 15 студентов
+"Iran, Islamic Republic of",2012,7,-53.3%
+"Iran, Islamic Republic of",2013,12,"71.4%"
+"Iran, Islamic Republic of",2014,4,-66.7%
+"Iran, Islamic Republic of",2015,2,-50.0%
+"Iran, Islamic Republic of",2016,6,"200.0%"
+"Iran, Islamic Republic of",2017,9,"50.0%"
+"Iran, Islamic Republic of",2018,14,"55.6%"
+"Iran, Islamic Republic of",2019,26,"85.7%"
+"Iran, Islamic Republic of",2020,42,"61.5%"
+"Iran, Islamic Republic of",2021,78,"85.7%"
+"Iran, Islamic Republic of",2022,93,"19.2%"
+Ireland,2000,33,—
+Ireland,2001,55,"66.7%"
+Ireland,2002,56,"1.8%"
+Ireland,2003,68,"21.4%"
+Ireland,2004,80,"17.6%"
+Ireland,2005,122,"52.5%"
+Ireland,2006,101,-17.2%
+Ireland,2007,70,-30.7%
+Ireland,2008,75,"7.1%"
+Ireland,2009,83,"10.7%"
+Ireland,2010,31,-62.7%
+Ireland,2011,74,"138.7%"
+Ireland,2012,58,-21.6%
+Ireland,2013,59,"1.7%"
+Ireland,2014,59,"0.0%"
+Ireland,2015,87,"47.5%"
+Ireland,2016,89,"2.3%"
+Ireland,2017,87,-2.2%
+Ireland,2018,104,"19.5%"
+Ireland,2019,106,"1.9%"
+Ireland,2020,107,"0.9%"
+Ireland,2021,130,"21.5%"
+Ireland,2022,145,"11.5%"
+Israel,2010,21,—
+Israel,2011,35,"66.7%"
+Israel,2012,27,-22.9%
+Israel,2013,867,"3111.1%"
+Israel,2014,750,-13.5%
+Italy,2000,118,—
+Italy,2001,200,"69.5%"
+Italy,2002,237,"18.5%"
+Italy,2003,369,"55.7%"
+Italy,2004,512,"38.8%"
+Italy,2005,600,"17.2%"
+Italy,2006,793,"32.2%"
+Italy,2007,930,"17.3%"
+Italy,2008,949,"2.0%"
+Italy,2009,1144,"20.5%"
+Italy,2010,1132,-1.0%
+Italy,2011,1515,"33.8%"
+Italy,2012,1737,"14.7%"
+Italy,2013,2103,"21.1%"
+Italy,2014,2019,-4.0%
+Italy,2015,2178,"7.9%"
+Italy,2016,2210,"1.5%"
+Italy,2017,2303,"4.2%"
+Italy,2018,2493,"8.3%"
+Italy,2019,1052,-57.8%
+Italy,2020,1554,"47.7%"
+Italy,2021,1908,"22.8%"
+Italy,2022,2489,"30.5%"
+Italy,2023,3047,"22.4%"
+Japan,2013,332,—
+Japan,2014,336,"1.2%"
+Japan,2015,359,"6.8%"
+Japan,2016,398,"10.9%"
+Japan,2017,463,"16.3%"
+Japan,2018,489,"5.6%"
+Japan,2019,521,"6.5%"
+Japan,2020,514,-1.3%
+Japan,2021,457,-11.1%
+Japan,2022,483,"5.7%"
+Japan,2023,591,"22.4%"
+Jordan,2000,39,—
+Jordan,2003,42,"7.7%"
+Jordan,2004,39,-7.1%
+Jordan,2005,50,"28.2%"
+Jordan,2006,62,"24.0%"
+Jordan,2007,37,-40.3%
+Jordan,2008,0,-100.0%
+Jordan,2009,0,"0%"
+Jordan,2010,36,рост с 0 до 36 студентов
+Jordan,2011,0,-100.0%
+Jordan,2012,37,рост с 0 до 37 студентов
+Jordan,2015,55,"48.6%"
+Jordan,2016,81,"47.3%"
+Jordan,2017,61,-24.7%
+Jordan,2018,71,"16.4%"
+Jordan,2019,64,-9.9%
+Jordan,2020,81,"26.6%"
+Jordan,2021,100,"23.5%"
+Jordan,2022,85,-15.0%
+Jordan,2023,85,"0.0%"
+Jordan,2024,72,-15.3%
+"Korea, Democratic People's Republic of",2009,20,—
+Kuwait,2008,5,—
+Kuwait,2009,2,-60.0%
+Lao People's Democratic Republic,2001,0,—
+Lao People's Democratic Republic,2002,0,"0%"
+Lao People's Democratic Republic,2003,0,"0%"
+Lao People's Democratic Republic,2004,0,"0%"
+Lao People's Democratic Republic,2005,0,"0%"
+Lao People's Democratic Republic,2006,0,"0%"
+Lao People's Democratic Republic,2007,0,"0%"
+Lao People's Democratic Republic,2008,0,"0%"
+Lao People's Democratic Republic,2009,1,рост с 0 до 1 студентов
+Lao People's Democratic Republic,2010,1,"0.0%"
+Lao People's Democratic Republic,2011,1,"0.0%"
+Lao People's Democratic Republic,2012,2,"100.0%"
+Lao People's Democratic Republic,2013,0,-100.0%
+Lao People's Democratic Republic,2014,1,рост с 0 до 1 студентов
+Lao People's Democratic Republic,2015,0,-100.0%
+Lao People's Democratic Republic,2016,0,"0%"
+Lao People's Democratic Republic,2017,1,рост с 0 до 1 студентов
+Lao People's Democratic Republic,2018,0,-100.0%
+Lao People's Democratic Republic,2019,0,"0%"
+Lao People's Democratic Republic,2020,0,"0%"
+Latvia,2000,430,—
+Latvia,2001,189,-56.0%
+Latvia,2002,394,"108.5%"
+Latvia,2003,330,-16.2%
+Latvia,2004,276,-16.4%
+Latvia,2005,323,"17.0%"
+Latvia,2007,382,"18.3%"
+Latvia,2008,382,"0.0%"
+Latvia,2009,397,"3.9%"
+Latvia,2010,360,-9.3%
+Latvia,2011,361,"0.3%"
+Latvia,2012,357,-1.1%
+Latvia,2013,387,"8.4%"
+Latvia,2014,482,"24.5%"
+Latvia,2015,509,"5.6%"
+Latvia,2016,571,"12.2%"
+Latvia,2017,516,-9.6%
+Latvia,2018,515,-0.2%
+Latvia,2019,538,"4.5%"
+Latvia,2020,548,"1.9%"
+Latvia,2021,531,-3.1%
+Latvia,2022,477,-10.2%
+Latvia,2023,364,-23.7%
+Latvia,2024,334,-8.2%
+Liechtenstein,2004,3,—
+Liechtenstein,2006,1,-66.7%
+Liechtenstein,2007,0,-100.0%
+Liechtenstein,2008,1,рост с 0 до 1 студентов
+Liechtenstein,2009,1,"0.0%"
+Liechtenstein,2010,1,"0.0%"
+Liechtenstein,2011,0,-100.0%
+Liechtenstein,2012,3,рост с 0 до 3 студентов
+Liechtenstein,2014,7,"133.3%"
+Liechtenstein,2015,4,-42.9%
+Liechtenstein,2016,3,-25.0%
+Liechtenstein,2017,6,"100.0%"
+Liechtenstein,2018,5,-16.7%
+Liechtenstein,2019,6,"20.0%"
+Liechtenstein,2020,4,-33.3%
+Liechtenstein,2021,3,-25.0%
+Lithuania,2000,41,—
+Lithuania,2001,34,-17.1%
+Lithuania,2002,35,"2.9%"
+Lithuania,2003,37,"5.7%"
+Lithuania,2004,28,-24.3%
+Lithuania,2005,32,"14.3%"
+Lithuania,2006,31,-3.1%
+Lithuania,2007,41,"32.3%"
+Lithuania,2008,42,"2.4%"
+Lithuania,2009,48,"14.3%"
+Lithuania,2010,60,"25.0%"
+Lithuania,2011,76,"26.7%"
+Lithuania,2012,135,"77.6%"
+Lithuania,2013,236,"74.8%"
+Lithuania,2014,229,-3.0%
+Lithuania,2015,182,-20.5%
+Lithuania,2016,160,-12.1%
+Lithuania,2017,191,"19.4%"
+Lithuania,2018,179,-6.3%
+Lithuania,2019,0,-100.0%
+Lithuania,2020,176,рост с 0 до 176 студентов
+Lithuania,2021,265,"50.6%"
+Lithuania,2022,317,"19.6%"
+Lithuania,2023,375,"18.3%"
+Lithuania,2024,393,"4.8%"
+Luxembourg,2006,7,—
+Luxembourg,2008,19,"171.4%"
+Luxembourg,2010,26,"36.8%"
+Luxembourg,2012,6,-76.9%
+Luxembourg,2013,36,"500.0%"
+Luxembourg,2014,45,"25.0%"
+Luxembourg,2015,55,"22.2%"
+Luxembourg,2016,49,-10.9%
+Luxembourg,2017,45,-8.2%
+Luxembourg,2018,57,"26.7%"
+Luxembourg,2019,58,"1.8%"
+Luxembourg,2020,56,-3.4%
+Luxembourg,2021,57,"1.8%"
+Luxembourg,2022,58,"1.8%"
+Luxembourg,2023,77,"32.8%"
+Luxembourg,2024,87,"13.0%"
+Macao,2003,0,—
+Macao,2004,1,рост с 0 до 1 студентов
+Macao,2005,0,-100.0%
+Macao,2006,1,рост с 0 до 1 студентов
+Macao,2007,1,"0.0%"
+Macao,2008,1,"0.0%"
+Macao,2009,2,"100.0%"
+Macao,2010,3,"50.0%"
+Macao,2011,9,"200.0%"
+Macao,2012,9,"0.0%"
+Macao,2013,7,-22.2%
+Macao,2014,5,-28.6%
+Macao,2015,7,"40.0%"
+Macao,2016,8,"14.3%"
+Macao,2017,4,-50.0%
+Macao,2018,2,-50.0%
+Macao,2019,2,"0.0%"
+Macao,2020,3,"50.0%"
+Macao,2021,2,-33.3%
+Macao,2022,2,"0.0%"
+Macao,2023,1,-50.0%
+Macao,2024,5,"400.0%"
+Malaysia,2000,32,—
+Malaysia,2001,4,-87.5%
+Malaysia,2002,25,"525.0%"
+Malaysia,2003,34,"36.0%"
+Malaysia,2004,31,-8.8%
+Malaysia,2006,33,"6.5%"
+Malaysia,2007,34,"3.0%"
+Malaysia,2008,45,"32.4%"
+Malaysia,2009,42,-6.7%
+Malaysia,2010,56,"33.3%"
+Malaysia,2011,76,"35.7%"
+Malaysia,2012,89,"17.1%"
+Malaysia,2014,168,"88.8%"
+Malaysia,2015,132,-21.4%
+Malaysia,2016,154,"16.7%"
+Malaysia,2017,144,-6.5%
+Malaysia,2019,14,-90.3%
+Malaysia,2020,17,"21.4%"
+Malaysia,2021,67,"294.1%"
+Malaysia,2022,70,"4.5%"
+Malaysia,2023,117,"67.1%"
+Malaysia,2024,220,"88.0%"
+Malta,2000,1,—
+Malta,2001,54,"5300.0%"
+Malta,2002,39,-27.8%
+Malta,2003,57,"46.2%"
+Malta,2004,45,-21.1%
+Malta,2005,0,-100.0%
+Malta,2006,42,рост с 0 до 42 студентов
+Malta,2008,35,-16.7%
+Malta,2009,38,"8.6%"
+Malta,2011,25,-34.2%
+Malta,2012,29,"16.0%"
+Malta,2013,34,"17.2%"
+Malta,2014,40,"17.6%"
+Malta,2015,34,-15.0%
+Malta,2016,33,-2.9%
+Malta,2017,32,-3.0%
+Malta,2018,29,-9.4%
+Malta,2019,30,"3.4%"
+Malta,2020,28,-6.7%
+Malta,2021,26,-7.1%
+Malta,2022,32,"23.1%"
+Malta,2023,40,"25.0%"
+Mauritius,2004,0,—
+Mauritius,2006,0,"0%"
+Mauritius,2010,0,"0%"
+Mauritius,2011,1,рост с 0 до 1 студентов
+Mauritius,2012,1,"0.0%"
+Mauritius,2013,2,"100.0%"
+Mauritius,2014,1,-50.0%
+Mauritius,2015,1,"0.0%"
+Mauritius,2016,2,"100.0%"
+Mauritius,2017,1,-50.0%
+Mauritius,2020,0,-100.0%
+Mauritius,2021,0,"0%"
+Mauritius,2022,2,рост с 0 до 2 студентов
+"Moldova, Republic of",2001,43,—
+"Moldova, Republic of",2002,60,"39.5%"
+"Moldova, Republic of",2003,71,"18.3%"
+"Moldova, Republic of",2004,137,"93.0%"
+"Moldova, Republic of",2005,0,-100.0%
+"Moldova, Republic of",2006,174,рост с 0 до 174 студентов
+"Moldova, Republic of",2007,181,"4.0%"
+"Moldova, Republic of",2008,168,-7.2%
+"Moldova, Republic of",2009,141,-16.1%
+"Moldova, Republic of",2010,141,"0.0%"
+"Moldova, Republic of",2011,118,-16.3%
+"Moldova, Republic of",2012,113,-4.2%
+"Moldova, Republic of",2013,103,-8.8%
+"Moldova, Republic of",2014,83,-19.4%
+"Moldova, Republic of",2015,74,-10.8%
+"Moldova, Republic of",2016,70,-5.4%
+"Moldova, Republic of",2017,54,-22.9%
+"Moldova, Republic of",2018,58,"7.4%"
+"Moldova, Republic of",2019,59,"1.7%"
+"Moldova, Republic of",2020,53,-10.2%
+"Moldova, Republic of",2021,60,"13.2%"
+"Moldova, Republic of",2022,81,"35.0%"
+"Moldova, Republic of",2023,112,"38.3%"
+"Moldova, Republic of",2024,125,"11.6%"
+Monaco,2017,0,—
+Monaco,2020,12,рост с 0 до 12 студентов
+Monaco,2021,12,"0.0%"
+Monaco,2022,10,-16.7%
+Monaco,2023,10,"0.0%"
+Monaco,2024,13,"30.0%"
+Mongolia,2000,94,—
+Mongolia,2001,87,-7.4%
+Mongolia,2003,47,-46.0%
+Mongolia,2004,162,"244.7%"
+Mongolia,2005,429,"164.8%"
+Mongolia,2006,623,"45.2%"
+Mongolia,2007,553,-11.2%
+Mongolia,2008,519,-6.1%
+Mongolia,2009,454,-12.5%
+Mongolia,2010,411,-9.5%
+Mongolia,2011,395,-3.9%
+Mongolia,2012,372,-5.8%
+Mongolia,2013,287,-22.8%
+Mongolia,2014,250,-12.9%
+Mongolia,2015,254,"1.6%"
+Mongolia,2016,206,-18.9%
+Mongolia,2017,182,-11.7%
+Mongolia,2018,180,-1.1%
+Mongolia,2019,236,"31.1%"
+Mongolia,2022,183,-22.5%
+Mongolia,2023,278,"51.9%"
+Mongolia,2024,310,"11.5%"
+Morocco,2003,0,—
+Morocco,2004,0,"0%"
+Morocco,2005,0,"0%"
+Morocco,2006,0,"0%"
+Morocco,2007,3,рост с 0 до 3 студентов
+Morocco,2008,6,"100.0%"
+Morocco,2009,3,-50.0%
+Morocco,2010,1,-66.7%
+Morocco,2013,2,"100.0%"
+Morocco,2014,2,"0.0%"
+Morocco,2015,5,"150.0%"
+Morocco,2016,11,"120.0%"
+Morocco,2017,5,-54.5%
+Morocco,2018,11,"120.0%"
+Morocco,2019,15,"36.4%"
+Morocco,2020,10,-33.3%
+Morocco,2021,10,"0.0%"
+Morocco,2022,9,-10.0%
+Morocco,2023,9,"0.0%"
+Morocco,2024,8,-11.1%
+Mozambique,2011,0,—
+Mozambique,2013,2,рост с 0 до 2 студентов
+Mozambique,2014,4,"100.0%"
+Mozambique,2016,4,"0.0%"
+Mozambique,2017,0,-100.0%
+Mozambique,2018,2,рост с 0 до 2 студентов
+Namibia,2002,0,—
+Namibia,2003,0,"0%"
+Namibia,2005,0,"0%"
+Namibia,2006,0,"0%"
+Namibia,2008,0,"0%"
+Namibia,2012,0,"0%"
+Namibia,2013,1,рост с 0 до 1 студентов
+Namibia,2014,0,-100.0%
+Namibia,2015,0,"0%"
+Namibia,2016,0,"0%"
+Namibia,2017,0,"0%"
+Namibia,2018,1,рост с 0 до 1 студентов
+Namibia,2019,1,"0.0%"
+Namibia,2020,2,"100.0%"
+Namibia,2022,0,-100.0%
+Netherlands,2000,175,—
+Netherlands,2001,227,"29.7%"
+Netherlands,2002,255,"12.3%"
+Netherlands,2003,271,"6.3%"
+Netherlands,2004,170,-37.3%
+Netherlands,2005,291,"71.2%"
+Netherlands,2006,237,-18.6%
+Netherlands,2007,184,-22.4%
+Netherlands,2008,211,"14.7%"
+Netherlands,2009,199,-5.7%
+Netherlands,2010,199,"0.0%"
+Netherlands,2011,336,"68.8%"
+Netherlands,2012,556,"65.5%"
+Netherlands,2013,616,"10.8%"
+Netherlands,2014,668,"8.4%"
+Netherlands,2015,794,"18.9%"
+Netherlands,2016,879,"10.7%"
+Netherlands,2017,882,"0.3%"
+Netherlands,2018,947,"7.4%"
+Netherlands,2019,877,-7.4%
+New Zealand,2000,20,—
+New Zealand,2001,29,"45.0%"
+New Zealand,2002,58,"100.0%"
+New Zealand,2003,101,"74.1%"
+New Zealand,2004,174,"72.3%"
+New Zealand,2005,203,"16.7%"
+New Zealand,2007,272,"34.0%"
+New Zealand,2008,299,"9.9%"
+New Zealand,2009,284,-5.0%
+New Zealand,2010,312,"9.9%"
+New Zealand,2011,338,"8.3%"
+New Zealand,2012,336,-0.6%
+New Zealand,2013,325,-3.3%
+New Zealand,2014,312,-4.0%
+New Zealand,2015,320,"2.6%"
+New Zealand,2016,315,-1.6%
+New Zealand,2017,342,"8.6%"
+New Zealand,2018,393,"14.9%"
+New Zealand,2019,338,-14.0%
+New Zealand,2020,269,-20.4%
+New Zealand,2021,156,-42.0%
+New Zealand,2022,99,-36.5%
+New Zealand,2023,206,"108.1%"
+New Zealand,2024,280,"35.9%"
+Nicaragua,2023,4,—
+North Macedonia,2000,0,—
+North Macedonia,2001,1,рост с 0 до 1 студентов
+North Macedonia,2002,0,-100.0%
+North Macedonia,2003,0,"0%"
+North Macedonia,2004,0,"0%"
+North Macedonia,2005,0,"0%"
+North Macedonia,2006,1,рост с 0 до 1 студентов
+North Macedonia,2007,1,"0.0%"
+North Macedonia,2008,1,"0.0%"
+North Macedonia,2009,0,-100.0%
+North Macedonia,2011,0,"0%"
+North Macedonia,2012,1,рост с 0 до 1 студентов
+North Macedonia,2013,1,"0.0%"
+North Macedonia,2014,0,-100.0%
+North Macedonia,2015,1,рост с 0 до 1 студентов
+North Macedonia,2017,5,"400.0%"
+North Macedonia,2018,1,-80.0%
+North Macedonia,2019,3,"200.0%"
+North Macedonia,2020,0,-100.0%
+North Macedonia,2021,0,"0%"
+North Macedonia,2022,0,"0%"
+North Macedonia,2023,0,"0%"
+Norway,2000,339,—
+Norway,2001,335,-1.2%
+Norway,2002,458,"36.7%"
+Norway,2003,544,"18.8%"
+Norway,2004,674,"23.9%"
+Norway,2005,750,"11.3%"
+Norway,2006,772,"2.9%"
+Norway,2007,798,"3.4%"
+Norway,2008,868,"8.8%"
+Norway,2009,943,"8.6%"
+Norway,2010,894,-5.2%
+Norway,2011,1004,"12.3%"
+Norway,2012,1061,"5.7%"
+Norway,2013,624,-41.2%
+Norway,2014,608,-2.6%
+Norway,2015,548,-9.9%
+Norway,2016,516,-5.8%
+Norway,2017,369,-28.5%
+Norway,2018,481,"30.4%"
+Norway,2019,227,-52.8%
+Norway,2020,306,"34.8%"
+Norway,2021,272,-11.1%
+Norway,2022,285,"4.8%"
+Norway,2023,251,-11.9%
+Norway,2024,242,-3.6%
+Oman,2007,0,—
+Oman,2008,0,"0%"
+Oman,2009,0,"0%"
+Oman,2010,0,"0%"
+Oman,2011,0,"0%"
+Oman,2013,1,рост с 0 до 1 студентов
+Oman,2014,0,-100.0%
+Oman,2015,0,"0%"
+Oman,2016,1,рост с 0 до 1 студентов
+Oman,2017,3,"200.0%"
+Oman,2018,3,"0.0%"
+Oman,2019,3,"0.0%"
+Oman,2020,3,"0.0%"
+Oman,2021,5,"66.7%"
+Oman,2023,1,-80.0%
+Oman,2024,3,"200.0%"
+Panama,2019,2,—
+Panama,2020,4,"100.0%"
+Panama,2021,5,"25.0%"
+Panama,2022,6,"20.0%"
+Philippines,2001,2,—
+Philippines,2002,3,"50.0%"
+Philippines,2003,2,-33.3%
+Philippines,2004,0,-100.0%
+Philippines,2005,1,рост с 0 до 1 студентов
+Philippines,2006,0,-100.0%
+Philippines,2008,1,рост с 0 до 1 студентов
+Philippines,2024,34,"3300.0%"
+Poland,2000,262,—
+Poland,2001,289,"10.3%"
+Poland,2002,291,"0.7%"
+Poland,2003,346,"18.9%"
+Poland,2004,381,"10.1%"
+Poland,2005,452,"18.6%"
+Poland,2006,456,"0.9%"
+Poland,2007,488,"7.0%"
+Poland,2008,459,-5.9%
+Poland,2009,494,"7.6%"
+Poland,2010,543,"9.9%"
+Poland,2011,476,-12.3%
+Poland,2012,553,"16.2%"
+Poland,2013,585,"5.8%"
+Poland,2014,754,"28.9%"
+Poland,2015,898,"19.1%"
+Poland,2016,977,"8.8%"
+Poland,2017,1042,"6.7%"
+Poland,2018,799,-23.3%
+Poland,2019,792,-0.9%
+Poland,2020,1038,"31.1%"
+Poland,2021,1431,"37.9%"
+Poland,2022,1570,"9.7%"
+Poland,2023,1305,-16.9%
+Poland,2024,1118,-14.3%
+Portugal,2000,10,—
+Portugal,2002,18,"80.0%"
+Portugal,2003,28,"55.6%"
+Portugal,2004,37,"32.1%"
+Portugal,2005,55,"48.6%"
+Portugal,2006,65,"18.2%"
+Portugal,2007,85,"30.8%"
+Portugal,2008,60,-29.4%
+Portugal,2009,50,-16.7%
+Portugal,2010,55,"10.0%"
+Portugal,2011,83,"50.9%"
+Portugal,2012,111,"33.7%"
+Portugal,2013,106,-4.5%
+Portugal,2014,81,-23.6%
+Portugal,2015,90,"11.1%"
+Portugal,2016,82,-8.9%
+Portugal,2017,99,"20.7%"
+Portugal,2018,88,-11.1%
+Portugal,2019,95,"8.0%"
+Portugal,2020,129,"35.8%"
+Portugal,2021,130,"0.8%"
+Portugal,2022,140,"7.7%"
+Portugal,2023,211,"50.7%"
+Qatar,2002,2,—
+Qatar,2003,0,-100.0%
+Qatar,2004,3,рост с 0 до 3 студентов
+Qatar,2005,0,-100.0%
+Qatar,2008,5,рост с 0 до 5 студентов
+Qatar,2009,4,-20.0%
+Qatar,2010,6,"50.0%"
+Qatar,2011,9,"50.0%"
+Qatar,2012,4,-55.6%
+Qatar,2013,5,"25.0%"
+Qatar,2014,6,"20.0%"
+Qatar,2015,8,"33.3%"
+Qatar,2016,4,-50.0%
+Qatar,2017,8,"100.0%"
+Qatar,2018,5,-37.5%
+Qatar,2019,8,"60.0%"
+Qatar,2020,12,"50.0%"
+Qatar,2021,16,"33.3%"
+Qatar,2022,16,"0.0%"
+Qatar,2023,25,"56.3%"
+Qatar,2024,26,"4.0%"
+Romania,2000,25,—
+Romania,2001,19,-24.0%
+Romania,2002,12,-36.8%
+Romania,2003,9,-25.0%
+Romania,2004,9,"0.0%"
+Romania,2005,16,"77.8%"
+Romania,2006,16,"0.0%"
+Romania,2007,14,-12.5%
+Romania,2008,2,-85.7%
+Romania,2009,14,"600.0%"
+Romania,2010,15,"7.1%"
+Romania,2011,11,-26.7%
+Romania,2013,25,"127.3%"
+Romania,2014,22,-12.0%
+Romania,2015,15,-31.8%
+Romania,2016,25,"66.7%"
+Romania,2017,35,"40.0%"
+Romania,2018,30,-14.3%
+Romania,2019,27,-10.0%
+Romania,2020,36,"33.3%"
+Romania,2021,44,"22.2%"
+Romania,2022,46,"4.5%"
+Romania,2023,58,"26.1%"
+Rwanda,2012,2,—
+Rwanda,2013,0,-100.0%
+Rwanda,2014,0,"0%"
+Rwanda,2015,0,"0%"
+Rwanda,2017,0,"0%"
+Rwanda,2018,0,"0%"
+Rwanda,2019,0,"0%"
+Rwanda,2020,0,"0%"
+Rwanda,2022,0,"0%"
+Rwanda,2023,0,"0%"
+Rwanda,2024,0,"0%"
+Saudi Arabia,2003,120,—
+Saudi Arabia,2004,148,"23.3%"
+Saudi Arabia,2005,116,-21.6%
+Saudi Arabia,2006,0,-100.0%
+Saudi Arabia,2007,78,рост с 0 до 78 студентов
+Saudi Arabia,2008,83,"6.4%"
+Saudi Arabia,2009,88,"6.0%"
+Saudi Arabia,2010,119,"35.2%"
+Saudi Arabia,2011,225,"89.1%"
+Saudi Arabia,2012,300,"33.3%"
+Saudi Arabia,2013,520,"73.3%"
+Saudi Arabia,2014,601,"15.6%"
+Saudi Arabia,2015,572,-4.8%
+Saudi Arabia,2016,584,"2.1%"
+Saudi Arabia,2017,577,-1.2%
+Saudi Arabia,2018,537,-6.9%
+Saudi Arabia,2019,356,-33.7%
+Saudi Arabia,2020,444,"24.7%"
+Saudi Arabia,2021,444,"0.0%"
+Saudi Arabia,2022,479,"7.9%"
+Saudi Arabia,2024,604,"26.1%"
+Senegal,2023,0,—
+Senegal,2024,2,рост с 0 до 2 студентов
+Serbia,2007,10,—
+Serbia,2008,18,"80.0%"
+Serbia,2009,20,"11.1%"
+Serbia,2010,26,"30.0%"
+Serbia,2011,22,-15.4%
+Serbia,2012,24,"9.1%"
+Serbia,2013,24,"0.0%"
+Serbia,2014,26,"8.3%"
+Serbia,2015,93,"257.7%"
+Serbia,2016,93,"0.0%"
+Serbia,2017,120,"29.0%"
+Serbia,2018,123,"2.5%"
+Serbia,2019,130,"5.7%"
+Serbia,2020,140,"7.7%"
+Serbia,2021,130,-7.1%
+Serbia,2022,131,"0.8%"
+Serbia,2023,189,"44.3%"
+Serbia,2024,342,"81.0%"
+Sint Maarten (Dutch part),2012,1,—
+Sint Maarten (Dutch part),2014,0,-100.0%
+Sint Maarten (Dutch part),2015,0,"0%"
+Sint Maarten (Dutch part),2017,0,"0%"
+Slovakia,2000,28,—
+Slovakia,2001,35,"25.0%"
+Slovakia,2002,47,"34.3%"
+Slovakia,2003,32,-31.9%
+Slovakia,2004,26,-18.8%
+Slovakia,2005,24,-7.7%
+Slovakia,2006,14,-41.7%
+Slovakia,2007,21,"50.0%"
+Slovakia,2008,35,"66.7%"
+Slovakia,2009,40,"14.3%"
+Slovakia,2010,28,-30.0%
+Slovakia,2011,23,-17.9%
+Slovakia,2012,25,"8.7%"
+Slovakia,2013,63,"152.0%"
+Slovakia,2014,83,"31.7%"
+Slovakia,2015,99,"19.3%"
+Slovakia,2016,106,"7.1%"
+Slovakia,2017,99,-6.6%
+Slovakia,2018,138,"39.4%"
+Slovakia,2019,228,"65.2%"
+Slovakia,2020,370,"62.3%"
+Slovakia,2021,580,"56.8%"
+Slovakia,2022,714,"23.1%"
+Slovakia,2023,961,"34.6%"
+Slovakia,2024,1253,"30.4%"
+Slovenia,2000,10,—
+Slovenia,2001,7,-30.0%
+Slovenia,2002,16,"128.6%"
+Slovenia,2003,17,"6.3%"
+Slovenia,2004,9,-47.1%
+Slovenia,2005,10,"11.1%"
+Slovenia,2006,11,"10.0%"
+Slovenia,2007,14,"27.3%"
+Slovenia,2008,19,"35.7%"
+Slovenia,2009,28,"47.4%"
+Slovenia,2010,23,-17.9%
+Slovenia,2011,25,"8.7%"
+Slovenia,2012,37,"48.0%"
+Slovenia,2013,38,"2.7%"
+Slovenia,2014,40,"5.3%"
+Slovenia,2015,47,"17.5%"
+Slovenia,2016,56,"19.1%"
+Slovenia,2017,90,"60.7%"
+Slovenia,2018,111,"23.3%"
+Slovenia,2019,160,"44.1%"
+Slovenia,2020,192,"20.0%"
+Slovenia,2021,227,"18.2%"
+Slovenia,2022,235,"3.5%"
+Slovenia,2023,356,"51.5%"
+South Africa,2008,0,—
+South Africa,2011,62,рост с 0 до 62 студентов
+South Africa,2012,23,-62.9%
+South Africa,2013,30,"30.4%"
+South Africa,2014,26,-13.3%
+South Africa,2015,27,"3.8%"
+South Africa,2016,31,"14.8%"
+South Africa,2017,34,"9.7%"
+South Africa,2018,34,"0.0%"
+South Africa,2019,27,-20.6%
+South Africa,2020,20,-25.9%
+South Africa,2021,19,-5.0%
+South Africa,2022,13,-31.6%
+South Africa,2023,9,-30.8%
+Spain,2000,93,—
+Spain,2001,112,"20.4%"
+Spain,2002,148,"32.1%"
+Spain,2003,218,"47.3%"
+Spain,2004,61,-72.0%
+Spain,2005,77,"26.2%"
+Spain,2006,135,"75.3%"
+Spain,2007,136,"0.7%"
+Spain,2008,329,"141.9%"
+Spain,2009,485,"47.4%"
+Spain,2010,643,"32.6%"
+Spain,2011,665,"3.4%"
+Spain,2012,718,"8.0%"
+Spain,2013,733,"2.1%"
+Spain,2016,485,-33.8%
+Spain,2017,597,"23.1%"
+Spain,2018,655,"9.7%"
+Spain,2019,682,"4.1%"
+Spain,2020,670,-1.8%
+Spain,2021,678,"1.2%"
+Spain,2022,717,"5.8%"
+Spain,2023,781,"8.9%"
+Spain,2024,798,"2.2%"
+Sri Lanka,2013,0,—
+Sri Lanka,2014,0,"0%"
+Sri Lanka,2015,0,"0%"
+Sri Lanka,2016,0,"0%"
+Sri Lanka,2017,0,"0%"
+Sri Lanka,2018,0,"0%"
+Sri Lanka,2019,1,рост с 0 до 1 студентов
+Sri Lanka,2020,0,-100.0%
+Sri Lanka,2021,0,"0%"
+Sri Lanka,2022,0,"0%"
+Sri Lanka,2023,0,"0%"
+Sweden,2000,462,—
+Sweden,2001,524,"13.4%"
+Sweden,2002,584,"11.5%"
+Sweden,2003,643,"10.1%"
+Sweden,2004,54,-91.6%
+Sweden,2005,67,"24.1%"
+Sweden,2006,37,-44.8%
+Sweden,2007,65,"75.7%"
+Sweden,2008,255,"292.3%"
+Sweden,2009,385,"51.0%"
+Sweden,2010,471,"22.3%"
+Sweden,2011,643,"36.5%"
+Sweden,2012,512,-20.4%
+Sweden,2013,420,-18.0%
+Sweden,2014,390,-7.1%
+Sweden,2015,364,-6.7%
+Sweden,2016,357,-1.9%
+Sweden,2017,340,-4.8%
+Sweden,2018,334,-1.8%
+Sweden,2019,303,-9.3%
+Sweden,2020,289,-4.6%
+Sweden,2021,279,-3.5%
+Sweden,2022,299,"7.2%"
+Sweden,2023,292,-2.3%
+Sweden,2024,307,"5.1%"
+Switzerland,2000,327,—
+Switzerland,2001,377,"15.3%"
+Switzerland,2002,458,"21.5%"
+Switzerland,2003,495,"8.1%"
+Switzerland,2004,571,"15.4%"
+Switzerland,2005,609,"6.7%"
+Switzerland,2006,573,-5.9%
+Switzerland,2007,609,"6.3%"
+Switzerland,2008,638,"4.8%"
+Switzerland,2009,675,"5.8%"
+Switzerland,2010,719,"6.5%"
+Switzerland,2011,792,"10.2%"
+Switzerland,2012,873,"10.2%"
+Switzerland,2013,594,-32.0%
+Switzerland,2014,1021,"71.9%"
+Switzerland,2015,1011,-1.0%
+Switzerland,2016,975,-3.6%
+Switzerland,2017,969,-0.6%
+Switzerland,2018,934,-3.6%
+Switzerland,2019,954,"2.1%"
+Switzerland,2020,979,"2.6%"
+Switzerland,2021,1026,"4.8%"
+Switzerland,2022,1003,-2.2%
+Switzerland,2023,1025,"2.2%"
+Switzerland,2024,1048,"2.2%"
+Tajikistan,2000,161,—
+Tajikistan,2001,101,-37.3%
+Tajikistan,2002,1451,"1336.6%"
+Tajikistan,2003,599,-58.7%
+Tajikistan,2004,297,-50.4%
+Tajikistan,2005,88,-70.4%
+Tajikistan,2006,94,"6.8%"
+Tajikistan,2007,111,"18.1%"
+Tajikistan,2008,162,"45.9%"
+Tajikistan,2009,142,-12.3%
+Tajikistan,2010,126,-11.3%
+Tajikistan,2011,126,"0.0%"
+Tajikistan,2012,105,-16.7%
+Tajikistan,2013,107,"1.9%"
+Tajikistan,2014,92,-14.0%
+Tajikistan,2015,108,"17.4%"
+Tajikistan,2016,121,"12.0%"
+Tajikistan,2017,111,-8.3%
+"Tanzania, United Republic of",2001,71,—
+"Tanzania, United Republic of",2003,37,-47.9%
+"Tanzania, United Republic of",2004,40,"8.1%"
+"Tanzania, United Republic of",2021,0,-100.0%
+"Tanzania, United Republic of",2022,0,"0%"
+"Tanzania, United Republic of",2024,3,рост с 0 до 3 студентов
+Thailand,2001,15,—
+Thailand,2002,20,"33.3%"
+Thailand,2004,14,-30.0%
+Thailand,2005,20,"42.9%"
+Thailand,2006,24,"20.0%"
+Thailand,2007,22,-8.3%
+Thailand,2008,30,"36.4%"
+Thailand,2009,35,"16.7%"
+Thailand,2010,47,"34.3%"
+Thailand,2011,51,"8.5%"
+Thailand,2012,61,"19.6%"
+Thailand,2015,105,"72.1%"
+Thailand,2016,149,"41.9%"
+Thailand,2020,62,-58.4%
+Thailand,2022,110,"77.4%"
+Thailand,2023,113,"2.7%"
+Thailand,2024,177,"56.6%"
+Trinidad and Tobago,2000,0,—
+Trinidad and Tobago,2001,0,"0%"
+Trinidad and Tobago,2002,0,"0%"
+Trinidad and Tobago,2003,0,"0%"
+Trinidad and Tobago,2004,0,"0%"
+Trinidad and Tobago,2019,1,рост с 0 до 1 студентов
+Trinidad and Tobago,2021,1,"0.0%"
+Trinidad and Tobago,2022,0,-100.0%
+Trinidad and Tobago,2023,0,"0%"
+Tunisia,2000,0,—
+Tunisia,2001,0,"0%"
+Tunisia,2002,0,"0%"
+Tunisia,2013,7,рост с 0 до 7 студентов
+Tunisia,2015,0,-100.0%
+Tunisia,2016,1,рост с 0 до 1 студентов
+Tunisia,2017,2,"100.0%"
+Tunisia,2018,2,"0.0%"
+Tunisia,2020,0,-100.0%
+Tunisia,2021,0,"0%"
+Tunisia,2022,1,рост с 0 до 1 студентов
+Tunisia,2023,1,"0.0%"
+Turkmenistan,2014,1,—
+Turkmenistan,2019,1,"0.0%"
+Turkmenistan,2020,1,"0.0%"
+Turkmenistan,2021,1,"0.0%"
+Ukraine,2005,3673,—
+Ukraine,2006,4362,"18.8%"
+Ukraine,2007,4534,"3.9%"
+Ukraine,2008,4734,"4.4%"
+Ukraine,2009,4717,-0.4%
+Ukraine,2010,3931,-16.7%
+Ukraine,2011,3453,-12.2%
+Ukraine,2012,2990,-13.4%
+Ukraine,2013,2878,-3.7%
+Ukraine,2014,2930,"1.8%"
+Ukraine,2015,1814,-38.1%
+Ukraine,2016,1509,-16.8%
+Ukraine,2017,1114,-26.2%
+Ukraine,2018,783,-29.7%
+Ukraine,2019,657,-16.1%
+Ukraine,2020,623,-5.2%
+Ukraine,2021,1191,"91.2%"
+Ukraine,2023,655,-45.0%
+Ukraine,2024,651,-0.6%
+United Arab Emirates,2011,331,—
+United Arab Emirates,2012,286,-13.6%
+United States,2005,5299,—
+United States,2013,4688,-11.5%
+United States,2014,4885,"4.2%"
+United States,2015,5203,"6.5%"
+United States,2016,5156,-0.9%
+United States,2017,5081,-1.5%
+United States,2018,5074,-0.1%
+United States,2020,4901,-3.4%
+United States,2021,4466,-8.9%
+United States,2023,4543,"1.7%"
+Uzbekistan,2006,16,—
+Uzbekistan,2007,30,"87.5%"
+Uzbekistan,2008,56,"86.7%"
+Uzbekistan,2009,60,"7.1%"
+Uzbekistan,2010,64,"6.7%"
+Uzbekistan,2011,52,-18.8%
+Uzbekistan,2012,87,"67.3%"
+Uzbekistan,2013,108,"24.1%"
+Uzbekistan,2014,115,"6.5%"
+Uzbekistan,2015,129,"12.2%"
+Uzbekistan,2016,134,"3.9%"
+Uzbekistan,2017,133,-0.7%
+Uzbekistan,2018,174,"30.8%"
+Uzbekistan,2019,220,"26.4%"
+Uzbekistan,2021,442,"100.9%"
+Uzbekistan,2022,572,"29.4%"
+Uzbekistan,2023,648,"13.3%"
+Uzbekistan,2024,750,"15.7%"
+Viet Nam,2000,7,—
+Viet Nam,2001,8,"14.3%"
+Viet Nam,2002,13,"62.5%"
+Viet Nam,2003,0,-100.0%
+Viet Nam,2005,2,рост с 0 до 2 студентов
+Viet Nam,2007,2,"0.0%"
+Viet Nam,2008,8,"300.0%"
+Viet Nam,2010,7,-12.5%
+Viet Nam,2011,7,"0.0%"
+Viet Nam,2012,4,-42.9%
+Viet Nam,2013,17,"325.0%"
+Viet Nam,2014,5,-70.6%
+Viet Nam,2015,0,-100.0%
+Viet Nam,2016,2,рост с 0 до 2 студентов
+Viet Nam,2017,2,"0.0%"
+Viet Nam,2019,7,"250.0%"
+Viet Nam,2020,12,"71.4%"
+Viet Nam,2021,22,"83.3%"
+Viet Nam,2022,22,"0.0%"
