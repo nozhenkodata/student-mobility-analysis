@@ -31,7 +31,7 @@ international_student_mobility_from_Russia.pdf/ – аналитическая �
 
 ## Инструменты
 - Python (pandas, matplotlib, seaborn, scipy, scikit-learn, country_converter) 
-- SQL (PostgreSQL, агрегаты, подзапросы, JOIN, CTE, CASE, оконные функции) 
+- PostgreSQL (агрегаты, подзапросы, JOIN, CTE, CASE, оконные функции) 
 - Yandex DataLens 
 - JupyterLab, DBeaver
 
