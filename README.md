@@ -9,6 +9,11 @@
 ## О проекте
 В проекте на Python и SQL исследована динамика и структура международной мобильности российских студентов в 2000-2024 гг. Анализ может служить основой для оценки устойчивости образовательных потоков, выявления приоритетных стран и регионов и поддержки решений в области международного образовательного сотрудничества. 
 
+Источники данных:
+- Институт статистики ЮНЕСКО (UNESCO Institute for Statistics, [1](https://databrowser.uis.unesco.org/view#indicatorPaths=UIS-EducationOPRI%3A0%3A26604&geoMode=countries&geoUnits=&browsePath=EDUCATION%2FUIS-EducationOPRI%2Fint-stud&timeMode=range&view=table&chartMode=multiple&tableIndicatorId=26604&chartIndicatorId=26604&chartHighlightSeries=&chartHighlightEnabled=true), [2](https://databrowser.uis.unesco.org/view#indicatorPaths=UIS-EducationOPRI%3A1%3AXGDP.FSGOV&geoMode=countries&geoUnits=&browsePath=EDUCATION%2FUIS-EducationOPRI%2Fgov-exp-prc&timeMode=range&view=table&chartMode=multiple&tableIndicatorId=XGDP.FSGOV&chartIndicatorId=XGDP.FSGOV&chartHighlightSeries=&chartHighlightEnabled=true), **100+ стран, 25 лет**);
+- рейтинг университетов QS (QS World University Rankings 2026, [3](https://www.topuniversities.com/world-university-rankings?tab=indicators&sort_by=rank&order_by=asc));
+- база данных о стоимости жизни по странам Numbeo, 2026 ([4](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp)).
+
 Анализ показал, что международная мобильность российских студентов характеризуется устойчивой региональной структурой с доминированием стран Европы, несмотря на ускоренный рост отдельных азиатских направлений. 
 
 ## Структура
